@@ -3,7 +3,7 @@
 Ephemyral is an AI-powered CLI application for managing coding tasks that leverage machine learning models.
 
 ### Synopsis
-````
+```
                     █████                                                              ████ 
                    ░░███                                                              ░░███ 
   ██████  ████████  ░███████    ██████  █████████████   █████ ████ ████████   ██████   ░███ 
